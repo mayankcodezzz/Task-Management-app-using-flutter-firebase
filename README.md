@@ -1,9 +1,8 @@
 # Task-Management-app-using-flutter-firebase
 using firebase to store and fetch task also added login and signup functions best ui for task management app
 
-![filter](https://github.com/mayankcodezzz/Task-Management-app-using-flutter-firebase/assets/87845012/ddecd163-8924-4ad1-be9f-4301dacb2938)
 
-
+![252402454-afe5c179-8dbf-42b3-8ace-72ed98ed0891](https://github.com/mayankcodezzz/Task-Management-app-using-flutter-firebase/assets/87845012/a9610ed3-4528-4020-9a0d-22a5bcc9c958)
 
 
 ![effintho – home_employee dart  effintho  09-06-2023 12_54_49](https://github.com/mayankcodezzz/Task-Management-app-using-flutter-firebase/assets/87845012/7f2059f3-ce8e-4![effintho – home_employee dart  effintho  09-06-2023 12_55_11](https://github.com/mayankcodezzz/Task-Management-app-using-flutter-firebase/assets/87845012/6eb0593b-2ca8-4df2-aaf7-0ea5deb9d190)
